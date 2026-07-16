@@ -138,7 +138,7 @@ docs/                 Product and implementation specifications
 docs/ai-dev/          AI tools, process, decisions, and reflection
 ```
 
-## B1 Submission Notes
+## B1 Submission Notes (AI Use Documentation)
 
 AI development notes and redacted chat logs are documented in [docs/ai-dev/README.md](docs/ai-dev/README.md).
 
