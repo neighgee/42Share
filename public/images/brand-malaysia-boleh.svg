@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 115" role="img" aria-labelledby="title">
+  <title id="title">Malaysia Boleh!</title>
+  <rect width="360" height="115" rx="8" fill="#fff"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="55" font-weight="900">
+    <text x="12" y="62" fill="#f49b20">m</text><text x="65" y="62" fill="#ed1c24">a</text>
+    <text x="100" y="62" fill="#783a94">l</text><text x="123" y="62" fill="#00a77b">a</text>
+    <text x="158" y="62" fill="#2781bd">y</text><text x="193" y="62" fill="#ea3a88">s</text>
+    <text x="225" y="62" fill="#96bf1f">i</text><text x="246" y="62" fill="#17b7bd">a</text>
+  </g>
+  <text x="218" y="99" fill="#9d2f22" font-family="'Brush Script MT', cursive" font-size="48" font-weight="700" font-style="italic">Boleh!</text>
+</svg>
