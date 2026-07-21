@@ -18,43 +18,43 @@ Recommended user flow:
 
 1. On the login page, select **Continue with 42**.
 
-<img width="2858" height="1606" alt="image" src="https://github.com/user-attachments/assets/9971e54d-4bee-4b22-a1bb-b54545e237ff" />
+![42Share demo screenshot 1](assets/readme_1.png)
 
 Enter your 42 login and password.
 
-<img width="1904" height="957" alt="Screenshot from 2026-07-15 15-15-13" src="https://github.com/user-attachments/assets/8df22ddd-9c45-4ddf-b8c2-dec079be38fa" />
+![42Share demo screenshot 2](assets/readme_2.png)
 
 2. On the home page, join an active order or start a new group order.
 
-<img width="1904" height="957" alt="Screenshot from 2026-07-15 15-15-40" src="https://github.com/user-attachments/assets/9ea2921f-d337-4354-8ff7-61fb67556b42" />
+![42Share demo screenshot 3](assets/readme_3.png)
 
-<img width="1904" height="957" alt="Screenshot from 2026-07-15 15-15-48" src="https://github.com/user-attachments/assets/2971a808-187b-409c-b185-79d833e14374" />
+![42Share demo screenshot 4](assets/readme_4.png)
 
 3. Create a group order by entering the required details. The delivery fee is optional.
 
-<img width="1904" height="957" alt="Screenshot from 2026-07-15 15-16-12" src="https://github.com/user-attachments/assets/a02affde-918b-4c22-b52a-a40a430db852" />
+![42Share demo screenshot 5](assets/readme_5.png)
 
 4. The order card changes based on the user's participation.
 
 User who has not joined:
 
-<img width="1129" height="274" alt="Screenshot from 2026-07-15 16-07-27" src="https://github.com/user-attachments/assets/36a1043a-41e8-4693-8654-ecab6a5173ec" />
+![42Share demo screenshot 6](assets/readme_6.png)
 
 Organiser or existing participant:
 
-<img width="1129" height="274" alt="Screenshot from 2026-07-15 16-09-45" src="https://github.com/user-attachments/assets/944454f7-a8ba-4ba6-bbef-ff28bd822fc0" />
+![42Share demo screenshot 7](assets/readme_7.png)
 
 5. Review the order details.
 
-<img width="1913" height="955" alt="Screenshot from 2026-07-15 16-16-17" src="https://github.com/user-attachments/assets/74d65a95-4bed-4115-9a5c-a268fb9e4ec7" />
+![42Share demo screenshot 8](assets/readme_8.png)
 
 The organiser can close the order before it expires.
 
-<img width="1911" height="958" alt="Screenshot from 2026-07-15 15-18-05" src="https://github.com/user-attachments/assets/90d83ef6-1688-402f-bbd8-a855f896c5a0" />
+![42Share demo screenshot 9](assets/readme_9.png)
 
 6. **Today's Recent Orders** shows orders from the current day that are already closed.
 
-<img width="1913" height="780" alt="Screenshot from 2026-07-15 15-17-45" src="https://github.com/user-attachments/assets/7216696b-dfb8-4b9b-8ace-71eea1a069b8" />
+![42Share demo screenshot 10](assets/readme_10.png)
 
 ## Technology Stack
 
