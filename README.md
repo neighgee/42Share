@@ -122,20 +122,27 @@ Test login is disabled in production, where authentication uses 42 OAuth exclusi
 ## Project Structure
 
 ```text
-README.md             Project overview, setup, usage, and structure
-.env.example          Safe environment-variable template
-app/                  Next.js pages and API route handlers
-components/           Reusable UI components
-lib/auth/             42 OAuth and signed-session helpers
-lib/database/         Supabase client setup
-lib/services/         Users, orders, membership, and savings logic
-lib/validation/       Server-side input validation
-public/               Static images and other public assets
-supabase/             Database schema
-tests/                Verification notes and future test plan
-types/                Shared TypeScript types
-docs/                 Product and implementation specifications
-docs/ai-dev/          AI tools, process, decisions, and reflection
+README.md              Project overview, setup, usage, and structure
+LICENSE                Project license
+.env.example           Safe environment-variable template
+package.json           Project scripts and dependencies
+next.config.ts         Next.js configuration
+tailwind.config.ts     Tailwind CSS configuration
+tsconfig.json          TypeScript configuration
+app/                   Next.js pages, layouts, and API route handlers
+components/            Reusable brand, layout, order, and UI components
+lib/                   API, environment, utility, and restaurant helpers
+lib/auth/              42 OAuth and signed-session helpers
+lib/database/          Supabase client setup
+lib/services/          Users, orders, membership, and savings logic
+lib/validation/        Server-side input validation
+types/                 Shared TypeScript types
+public/images/         Runtime images served by the application
+assets/                Screenshots used in this README
+supabase/schema.sql    PostgreSQL database schema
+tests/                 Verification notes and future test plan
+docs/                  Product and implementation specifications
+docs/ai-dev/           AI tools, process, decisions, and reflection
 ```
 
 ## B1 Submission Notes (AI Use Documentation)
